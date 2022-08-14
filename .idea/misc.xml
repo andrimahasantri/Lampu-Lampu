@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.141" />
         <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/drawable/button_off.xml" value="0.141" />
         <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/drawable/button_on.xml" value="0.141" />
-        <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/layout/activity_main.xml" value="0.1578125" />
+        <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/drawable/s_thumb.xml" value="0.1" />
+        <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/drawable/s_track.xml" value="0.1" />
+        <entry key="..\:/Users/andri/LampuLampu/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
